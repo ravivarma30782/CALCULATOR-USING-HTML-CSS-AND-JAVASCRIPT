@@ -1,0 +1,71 @@
+.text-center{
+  text-align:center;
+}
+.bgcolor{
+  background:red;
+}
+.setupcenter{
+  margin:auto;
+}
+.maxwidth{
+  max-width:100vw
+}
+.button{
+  padding:13px;
+  margin:5px
+  border:2px solid black;
+  border-radius:12px;
+  cursor:pointer;
+}
+.flex{
+  display:flex;
+}
+.flexcol{
+  flex-direction:column;
+}
+.items-center{
+  align-items:center;
+}
+.row button{
+    width: 64px;
+    height: 70px;
+    border: 2px solid black;
+    font-size: 18px;
+    text-align: center;
+    transition: 0.2s all linear;
+}
+.row button:hover{
+  background-color:red;
+}
+.row button:active{
+  background-color:blue;
+}
+.input{
+  font-size:14px;
+  border:2px solid black;
+  border-radius:12px;
+  padding:22px 50px
+}
+.container{
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  background:pink;
+  border:34px solid red;
+   border-radius:41px;
+}
+#equal{
+  width:130px;
+}
+.result{
+     background-color:darkseagreen;
+    column-width: 267px;
+    color: white;
+    border-radius: 9px;
+    font-size: 24px;
+    ;
+}
+.bg{
+  background-image:url("background="https://replit.com/@ravivarma30782/RemarkableEagerCustomization#background.jpg);
+}
